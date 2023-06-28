@@ -1,0 +1,16 @@
+{
+	"id": "console_api",
+	"version": "1.0.0",
+	"name": "Console API",
+	"description": {
+		"en_us": "Websocket-based console API",
+		"zh_cn": "基于Websocket的控制台API"
+	},
+	"author": [
+		"hail122"
+	],
+	"link": "https://github.com/linstar-fxt",
+	"dependencies": {
+		"mcdreforged": ">=2.0.0-beta.3"
+	}
+}
